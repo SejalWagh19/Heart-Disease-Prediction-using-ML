@@ -7,7 +7,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about">About</a></li>
-    <li><a href="#proposed-system">Proposed System</a></li>
+    <li><a href="#proposed-system">Proposed System</a>
+      <ol type="A">
+        <li><a href="#workflow">Workflow</a></li>
+        <li><a href="#feature-selection">Feature Selection</a></li>
+        <li><a href="#classification">Classification</a></li>
+        <li><a href="#performance-evaluation-metrics">Performance Evaluation Metrics</a></li>
+      </ol>
+    </li>
     <li><a href="#results">Results</a></li>
     <li><a href="#future-work">Future Work</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
@@ -35,15 +42,13 @@ The goal is to build a predictive model that identifies significant features con
 Try the Application Now - 
 <a href="">HeartMetrics</a>
 
-## Proposed System
-
-**A. Workflow**
+## Proposed System  
+### Workflow
 
 <img src="https://github.com/SejalWagh19/Heart-Disease-Prediction-using-ML/blob/main/workflow.png" width="500" height="500" />
 
-## 
-
-**B. Feature Selection**
+##   
+### Feature Selection
 
 - Since the dataset contains many incompatible features that affect the accuracy of the algorithms. Thus, the feature selection techniques reduces those unconnected features hereby improving the algorithm's performance. 
 
@@ -57,8 +62,7 @@ Try the Application Now -
 </ol>
 
 ## 
-
-**C. Classification**
+### Classification
 
 Four classifiers are applied which are as follows:
 <ol>
@@ -69,9 +73,7 @@ Four classifiers are applied which are as follows:
 </ol>
 
 ## 
-
-**D. Performance Evaluation Metrics**
-
+### Performance Evaluation Metrics 
 In order to evaluate the performance of the model, five evaluation metrics are used.
 <ol>
   <li><b><i>Accuracy</i></b></li>
