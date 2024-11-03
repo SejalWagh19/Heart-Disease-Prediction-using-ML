@@ -10,6 +10,7 @@
     <li><a href="#proposed-system">Proposed System</a></li>
     <li><a href="#results">Results</a></li>
     <li><a href="#future-work">Future Work</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
   </ol>
 </details>
 
@@ -87,3 +88,14 @@ In order to evaluate the performance of the model, five evaluation metrics are u
 To enhance the results further, future work must focus on applying the same analysis to larger, real-world datasets, such as live data from hospitals. 
 
 Additionally, the use of deep learning algorithms could be explored to achieve more accurate predictions for heart disease.
+
+## Tech Stack
+
+
+## Authors
+
+🔆 [@Aryan Mhalsank](https://github.com/aryanmhalsank19)
+
+🔆 [@Sejal Wagh](https://github.com/SejalWagh19)
+
+🔆 [@Madiha Siddiqui](https://github.com/madihasiddiqui111)
