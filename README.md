@@ -15,7 +15,7 @@
 
 ------
 
-## <a id="about"></a>About
+## About
 
 This project aims to predict the likelihood of heart disease at an early stage using various machine learning models. 
 
@@ -34,7 +34,7 @@ The goal is to build a predictive model that identifies significant features con
 Try the Application Now - 
 <a href="">HeartMetrics</a>
 
-## <a id="proposed-system"></a>Proposed System
+## Proposed System
 
 **A. Workflow**
 
@@ -80,9 +80,9 @@ In order to evaluate the performance of the model, five evaluation metrics are u
   <li><b><i>Log Loss</i></b></li>
 </ol>
 
-## <a id="results"></a>Results
+## Results
 
-## <a id="future-work"></a>Future Work
+## Future Work
 
 To enhance the results further, future work must focus on applying the same analysis to larger, real-world datasets, such as live data from hospitals. 
 
