@@ -15,9 +15,8 @@
         <li><a href="#performance-evaluation-metrics">Performance Evaluation Metrics</a></li>
       </ol>
     </li>
-    <li><a href="#results">Results</a></li>
+    <li><a href="#results-and-discussions">Results and Discussions</a></li>
     <li><a href="#future-work">Future Work</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
   </ol>
 </details>
 
@@ -36,11 +35,6 @@ The goal is to build a predictive model that identifies significant features con
 **Dataset**
 - **Source**: UCI Cleveland dataset [![UCI ML Repo](https://img.shields.io/badge/UCI%20ML%20Repository-Dataset-blue)](https://archive.ics.uci.edu/dataset/45/heart+disease)
 - **Size**: 303 records, 13 features per record
-
-## Demonstration
-
-Try the Application Now - 
-<a href="">HeartMetrics</a>
 
 ## Proposed System  
 ### Workflow
@@ -83,15 +77,14 @@ In order to evaluate the performance of the model, five evaluation metrics are u
   <li><b><i>Log Loss</i></b></li>
 </ol>
 
-## Results
+## Results and Discussions
+For detailed results, visit: https://ieeexplore.ieee.org/document/10863677  
 
 ## Future Work
 
 To enhance the results further, future work must focus on applying the same analysis to larger, real-world datasets, such as live data from hospitals. 
 
 Additionally, the use of deep learning algorithms could be explored to achieve more accurate predictions for heart disease.
-
-## Tech Stack
 
 
 ## Authors
